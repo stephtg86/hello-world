@@ -1,3 +1,2 @@
 # hello-world
-My first repository
-This is where I am experimenting and applying what I'm learning.
+My first repository, where I'll experiment and apply what I'm learning.
